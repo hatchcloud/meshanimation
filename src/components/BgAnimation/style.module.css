@@ -9,8 +9,8 @@
 
 .e_1 {
     right: 0;
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     position: absolute;
 }
 
@@ -18,17 +18,17 @@
 .e_2 {
     top: 80px;
     right: 80px;
-    height: 300px;
-    width: 300px;
-    rotate: 50;
+    height: 400px;
+    width: 400px;
+    rotate: 0;
     position: absolute;
 }
 
 .e_3 {
     top:-130px;
     right: -80px;
-    height: 600px;
-    width: 600px;
+    height: 800px;
+    width: 800px;
     position: absolute;
     background-blend-mode: overlay;
     opacity: 0.6;
